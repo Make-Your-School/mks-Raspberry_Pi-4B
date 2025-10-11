@@ -1,4 +1,3 @@
-
 ---
 title: "Raspberry Pi 4 B"
 date: "2018-08-16T19:58:50.000Z"
