@@ -38,13 +38,13 @@ https://www.youtube.com/watch?v=HD0ZA1D2aNg
 
 <!-- infolist -->
 
- 
+ 
 
 **Pinout Diagramm:**
 
 \[caption id="attachment\_6294" align="aligncenter" width="1024"\]![](images/raspberrypi_gpio-pinout-diagram-2-1024x588.png) Quelle: Raspberry Pi Ltd; www.raspberrypi.com/documentation/computers/os.html#gpio-and-the-40-pin-header\[/caption\]
 
- 
+ 
 
 ## Wichtige Links für die ersten Schritte:
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=HD0ZA1D2aNg
 - [Erste Schritte (deutsch)](https://tutorials-raspberrypi.de/raspberry-pi-einstieg-wie-starte-ich/)
 - [Instructables - Raspberry Pi Class](https://www.instructables.com/class/Raspberry-Pi-Class/) [(englisch)](https://www.instructables.com/class/Raspberry-Pi-Class/)
 - [Node-RED](https://nodered.org/)
-- [Installation des Betriebssystems NOOBS auf dem Raspberry Pi (PDF-Anleitung)](https://makeyourschool.de/wp-content/uploads/2018/08/anleitung_installation_raspberry-pi-os.pdf)
+- [Installation des Betriebssystems NOOBS auf dem Raspberry Pi (PDF-Anleitung)](https://makeyourschool.de/wp-content/uploads/2018/08/anleitung_installation_raspberry-pi-os.pdf)
 
 ## Projektbeispiele:
 
