@@ -3,7 +3,7 @@ title: "Raspberry Pi 4 B"
 date: "2018-08-16T19:58:50.000Z"
 tags: 
   - "controller"
-coverImage: "3_raspberrypi4b.jpg"
+coverImage: "3_raspberrypi4b.png"
 material_number: "3"
 material_type: "controller"
 material_short_descr: "Raspberry Pi 4 Model B – 1GB RAM"
