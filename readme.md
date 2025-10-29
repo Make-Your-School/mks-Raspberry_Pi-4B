@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-Raspberry_Pi-4B.git"
 repo_prefix: "mks"
 repo_part: "4B"
 embedded_example_file: "examples/4B_minimal/4B_minimal.ino"
+title: 'Raspberry Pi 4 B'
+status: 'active'
+difficulty: 'expert'
 ---
 
 
